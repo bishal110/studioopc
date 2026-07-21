@@ -1,0 +1,6 @@
+{
+  "name": "Offshore Process Simulator",
+  "description": "Interactive Shallow-water Fixed-Platform Process Complex Simulator for operator training, SOP verification, remote operations, and interactive handoff visualization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
